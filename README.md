@@ -1,10 +1,13 @@
-# Three.js Journey
+# A small, self-contained 3d "miniverse" project
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
-``` bash
+inspired by [Gather](gather.town), [Jesse Zhou](https://jesse-zhou.com/), SimonDev, Bruno Simon
+
+
+
+Scripts for running the sample project:
+
+
 # Install dependencies (only the first time)
 npm install
 
