@@ -1,0 +1,15 @@
+- A loading icon is displayed while the assets load...
+
+- Jumping into the scene (clicking a button?) changes the lighting and camera (or initially draws the scene)
+
+- Models are displayed
+
+- Camera is movable
+
+- Avatar is displayed
+
+- Waiting message displayed while other call isnt taken
+
+- Accept message/notification for host 
+
+- Host controls - automatic?
